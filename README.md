@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1kI1DZXqvbvSgiWLqt8x2JfOiQ-eMeRmE/view?usp=shari
 
 ## 🚀 Função
 
-- **Web Scraping**: Extrai dados de páginas web [http://vitibrasil.cnpuv.embrapa.br](https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br)/ (label, table, tbody, tr, td) usando selenium e python.
+- **Web Scraping**: Extrai dados de páginas web (https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br)/ (label, table, tbody, tr, td) usando selenium e python.
 
 ## 📁 Estrutura do Projeto
 
