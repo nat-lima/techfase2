@@ -22,7 +22,7 @@ techfase2/
 ├── scrape_ibovespa.ipynb
 ```
 
-- **`data/`**: O algoritmo escrito no notebook Jupyter salva o resultado proveniente do site https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br num arquivo formato .parquet.
+- **`data/`**: O algoritmo escrito no notebook Jupyter persiste o resultado proveniente do site https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br num arquivo formato .parquet.
 - **`README.md`**: Documentação do projeto.
 - **`requirements.txt`**: Lista de dependências do projeto.
 - **`scrape_ibovespa`**: Algoritmo responsável pelo processamento dos dados disponíveis no https://sistemaswebb3-listados.b3.com.br/indexPage/day/IBOV?language=pt-br.
