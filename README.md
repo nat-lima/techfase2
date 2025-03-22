@@ -50,19 +50,10 @@ source venv/bin/activate  # No Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 4. Execute o Aplicativo
+### 4. Link para o video
 
-```bash
-python run.py
-```
-
-### 5. Deploy na Vercel
-[COMO EXECUTAREMOS ESSE PROCESSO DE FORMA AUTOMATA?] 
-
-### 6. Arquitetura
-
-![Arquitetura](https://github.com/user-attachments/assets/1c9cb1fc-33f2-4c07-8d13-ae595bf406e9) [ATUALIZAR!!!]
-
+https://drive.google.com/file/d/1Djv6WuDLjq5Wl
+XORIwZNzggRa4w_Fael/view?usp=sharing
 
 ## 🤝 Contribuindo
 
