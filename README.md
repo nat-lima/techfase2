@@ -4,7 +4,7 @@ Este é um projeto que consiste na implementacao de web scraping na página disp
 
 ## Link video
 
-https://drive.google.com/file/d/1kI1DZXqvbvSgiWLqt8x2JfOiQ-eMeRmE/view?usp=sharing [TROCAR DEPOIS]
+https://drive.google.com/file/d/1Djv6WuDLjq5WlXORIwZNzggRa4w_Fael/view?usp=sharing
 
 ## 🚀 Função
 
@@ -56,12 +56,9 @@ pip install -r requirements.txt
 python run.py
 ```
 
-### 5. Deploy na Vercel
-[COMO EXECUTAREMOS ESSE PROCESSO DE FORMA AUTOMATA?] 
+### 5. Arquitetura
 
-### 6. Arquitetura
 
-![Arquitetura](https://github.com/user-attachments/assets/1c9cb1fc-33f2-4c07-8d13-ae595bf406e9) [ATUALIZAR!!!]
 
 
 ## 🤝 Contribuindo
