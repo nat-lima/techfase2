@@ -58,6 +58,7 @@ python run.py
 
 ### 5. Arquitetura
 
+![image](https://github.com/user-attachments/assets/b659a187-6cb6-4829-9673-1f38091575bd)
 
 
 
