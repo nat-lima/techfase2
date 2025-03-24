@@ -58,8 +58,7 @@ python run.py
 
 ### 5. Arquitetura
 
-![image](https://github.com/user-attachments/assets/b659a187-6cb6-4829-9673-1f38091575bd)
-
+![image](https://github.com/user-attachments/assets/41786e0d-7c39-424d-98a8-875e34f16295)
 
 
 ## 🤝 Contribuindo
